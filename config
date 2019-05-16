@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "fanatica123"]
+	url = git@github.com:fanatica123/lixiang.git
+	fetch = +refs/heads/*:refs/remotes/fanatica123/*
+[gui]
+	wmstate = normal
+	geometry = 841x471+520+216 189 218
